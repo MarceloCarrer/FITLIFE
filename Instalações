@@ -1,0 +1,5 @@
+--INSTALAÇAO ANGULAR
+npm install -g @angular/cli
+
+--CERTIFICADO
+dotnet dev-certs https --trust
